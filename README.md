@@ -150,13 +150,12 @@ Atualmente atuo como Desenvolvedor Java Pleno, trabalhando com sistemas financei
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px; padding-bottom: 10px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleffstampini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-top: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleffstampini&layout=compact&langs_count=7&theme=omni"/>
 </p>
