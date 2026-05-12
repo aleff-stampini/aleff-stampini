@@ -4,6 +4,8 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleffstampini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleffstampini&layout=compact&langs_count=7&theme=omni"/>
 </div>
+
+### Linguagens e Tecnologias
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
