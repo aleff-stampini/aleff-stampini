@@ -1,4 +1,4 @@
-# Aleff Stampini
+# 👨‍💻 Aleff Stampini
 
 **`Desenvolvedor Java`**
 
@@ -17,6 +17,10 @@ Principais competências:
 
 Atualmente atuo como Desenvolvedor Java Pleno, trabalhando com sistemas financeiros e soluções backend críticas.
 
+---
+
+### 🌎 Conecte-se comigo
+
 <div align="left"> 
   <a href="https://instagram.com/_aleffkelvin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:aleffkelvin16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,123 +29,108 @@ Atualmente atuo como Desenvolvedor Java Pleno, trabalhando com sistemas financei
 
 ---
 
+### 🚀 Stack Principal
+
+- Java 17+
+- Spring Boot
+- APIs REST
+- Microserviços
+- Apache Kafka
+- AWS
+- Docker & Kubernetes
+- PostgreSQL
+- Clean Architecture
+- Git & CI/CD
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
+    title="Java"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring" 
+    title="Spring"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Docker" 
+    title="Docker"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Kubernetes" 
+    title="Kubernetes"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="AWS" 
+    title="AWS"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Kafka" 
+    title="Kafka"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -150,7 +139,7 @@ Atualmente atuo como Desenvolvedor Java Pleno, trabalhando com sistemas financei
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-bottom: 10px" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleffstampini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
   <img 
