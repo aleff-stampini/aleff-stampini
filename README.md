@@ -135,16 +135,16 @@ Atualmente atuo como Desenvolvedor Java Pleno, trabalhando com sistemas financei
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px; padding-bottom: 10px" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleffstampini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleff-stampini&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleffstampini&layout=compact&langs_count=7&theme=omni"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleff-stampini&layout=compact&langs_count=7&theme=omni"/>
 </p>
